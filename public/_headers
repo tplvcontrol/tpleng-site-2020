@@ -1,0 +1,110 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-gatsby-plugin-offline-app-shell-js-568c113b24a9e8ed8db8.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.f9a975b56dc01d8a264c.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-47cb5be2b4cabb2f0a1f.js
+  Cache-Control: public, max-age=31536000, immutable
+/commons-e6f7f1d62a42de7f6217.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-project-tsx-1a84d9943d45606c12e5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-clientes-tsx-72e5e5b4d2482db5a5cd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-tsx-c4f00ce1543bb90c8249.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-instagram-tsx-a1865958c4f17a3ff557.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-quem-somos-tsx-e1e7c33bb2b34a12f672.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-servicos-tsx-be82968f0f5abd5723bc.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-b293c2c7dc87cd108673.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-2bf51b82682e898d0510.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-b293c2c7dc87cd108673.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </app-2bf51b82682e898d0510.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-568c113b24a9e8ed8db8.js>; rel=preload; as=script
+/o-grupo
+  Link: </webpack-runtime-b293c2c7dc87cd108673.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </app-2bf51b82682e898d0510.js>; rel=preload; as=script
+  Link: </styles-47cb5be2b4cabb2f0a1f.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </component---src-templates-project-tsx-1a84d9943d45606c12e5.js>; rel=preload; as=script
+/nossa-historia
+  Link: </webpack-runtime-b293c2c7dc87cd108673.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </app-2bf51b82682e898d0510.js>; rel=preload; as=script
+  Link: </styles-47cb5be2b4cabb2f0a1f.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </component---src-templates-project-tsx-1a84d9943d45606c12e5.js>; rel=preload; as=script
+/nossos-servicos
+  Link: </webpack-runtime-b293c2c7dc87cd108673.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </app-2bf51b82682e898d0510.js>; rel=preload; as=script
+  Link: </styles-47cb5be2b4cabb2f0a1f.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </component---src-templates-project-tsx-1a84d9943d45606c12e5.js>; rel=preload; as=script
+/nossos-clientes
+  Link: </webpack-runtime-b293c2c7dc87cd108673.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </app-2bf51b82682e898d0510.js>; rel=preload; as=script
+  Link: </styles-47cb5be2b4cabb2f0a1f.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </component---src-templates-project-tsx-1a84d9943d45606c12e5.js>; rel=preload; as=script
+/fale-conosco
+  Link: </webpack-runtime-b293c2c7dc87cd108673.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </app-2bf51b82682e898d0510.js>; rel=preload; as=script
+  Link: </styles-47cb5be2b4cabb2f0a1f.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </component---src-templates-project-tsx-1a84d9943d45606c12e5.js>; rel=preload; as=script
+/clientes/
+  Link: </webpack-runtime-b293c2c7dc87cd108673.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </app-2bf51b82682e898d0510.js>; rel=preload; as=script
+  Link: </styles-47cb5be2b4cabb2f0a1f.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </component---src-pages-clientes-tsx-72e5e5b4d2482db5a5cd.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-b293c2c7dc87cd108673.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </app-2bf51b82682e898d0510.js>; rel=preload; as=script
+  Link: </styles-47cb5be2b4cabb2f0a1f.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </component---src-pages-index-tsx-c4f00ce1543bb90c8249.js>; rel=preload; as=script
+/instagram/
+  Link: </webpack-runtime-b293c2c7dc87cd108673.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </app-2bf51b82682e898d0510.js>; rel=preload; as=script
+  Link: </styles-47cb5be2b4cabb2f0a1f.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </component---src-pages-instagram-tsx-a1865958c4f17a3ff557.js>; rel=preload; as=script
+/quem-somos/
+  Link: </webpack-runtime-b293c2c7dc87cd108673.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </app-2bf51b82682e898d0510.js>; rel=preload; as=script
+  Link: </styles-47cb5be2b4cabb2f0a1f.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </component---src-pages-quem-somos-tsx-e1e7c33bb2b34a12f672.js>; rel=preload; as=script
+/servicos/
+  Link: </webpack-runtime-b293c2c7dc87cd108673.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </app-2bf51b82682e898d0510.js>; rel=preload; as=script
+  Link: </styles-47cb5be2b4cabb2f0a1f.js>; rel=preload; as=script
+  Link: </commons-e6f7f1d62a42de7f6217.js>; rel=preload; as=script
+  Link: </component---src-pages-servicos-tsx-be82968f0f5abd5723bc.js>; rel=preload; as=script
